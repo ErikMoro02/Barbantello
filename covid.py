@@ -21,3 +21,5 @@ plt.ylabel(var)
 plt.xlabel('Giorno')
 plt.legend()
 plt.show()
+
+#https://www.tutorialsfreak.com/python-tutorial/drop-down-menus-in-python-tkinter
